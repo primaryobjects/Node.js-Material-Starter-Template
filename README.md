@@ -3,6 +3,8 @@ Node.js Material Starter Template
 
 A quick and easy Node.js + Jade template project, using Material Design Lite.
 
+Also available for [Twitter Bootstrap](https://github.com/primaryobjects/Node.js-Bootstrap-Starter-Template).
+
 ##Usage
 - Clone repository.
 - Open a command prompt, navigate to the folder, and enter: npm install
