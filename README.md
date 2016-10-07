@@ -5,24 +5,24 @@ A quick and easy Node.js + Jade template project, using Material Design Lite.
 
 Also available for [Twitter Bootstrap](https://github.com/primaryobjects/Node.js-Bootstrap-Starter-Template).
 
-##Usage
+## Usage
 - Clone repository.
 - Open a command prompt, navigate to the folder, and enter: npm install
 - Next, run the app by entering: node app
 - Browse to http://localhost:3000
 
-##Preview:
+## Preview:
 ![Screenshot](https://raw.githubusercontent.com/primaryobjects/Node.js-Material-Starter-Template/master/public/images/screenshot.png)
 
-##Contents:
+## Contents:
 
-layout.jade
-header.jade
-footer.jade
-links.jade
-index.jade
+- layout.jade
+- header.jade
+- footer.jade
+- links.jade
+- index.jade
 
-##Editing Pages:
+## Editing Pages:
 
 Edit views/index.jade to add your content. The default contents include:
 
@@ -36,7 +36,7 @@ block content
       p Hello World
 ```
 
-##Adding Components
+## Adding Components
 
 The template is compatible with all [Material Design Lite](https://getmdl.io/components/index.html) UI components.
 
@@ -47,5 +47,5 @@ button.mdl-button.mdl-js-button.mdl-button--raised.mdl-js-ripple-effect.mdl-butt
   | My Button
 ```
 
-##Author
+## Author
 Kory Becker http://www.primaryobjects.com/kory-becker
