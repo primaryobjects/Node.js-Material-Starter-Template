@@ -1,7 +1,7 @@
 Node.js Material Starter Template
 ===
 
-A quick and easy Node.js + Jade template project, using Material Design Lite.
+A quick and easy Node.js + [Express](https://expressjs.com) + [Pug](https://www.npmjs.com/package/pug) + [Material Design Lite](https://getmdl.io) template project.
 
 Also available for [Twitter Bootstrap](https://github.com/primaryobjects/Node.js-Bootstrap-Starter-Template).
 
@@ -16,15 +16,15 @@ Also available for [Twitter Bootstrap](https://github.com/primaryobjects/Node.js
 
 ## Contents:
 
-- layout.jade
-- header.jade
-- footer.jade
-- links.jade
-- index.jade
+- layout.pug
+- header.pug
+- footer.pug
+- links.pug
+- index.pug
 
 ## Editing Pages:
 
-Edit views/index.jade to add your content. The default contents include:
+Edit views/index.pug to add your content. The default contents include:
 
 ```
 extends layout
